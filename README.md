@@ -21,7 +21,7 @@
 #### 漫画 [cimoc](cimoc)
 ##### 【大部分链接失效了，现在只有内置源的 APP】
 
-#### 小说 [legado](legado)
+#### 小说 [legado 已删除，更换其他软件](legado)
 ##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/legado/index.json
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/legado/index.json
 
@@ -42,7 +42,6 @@
 | [listen1 Win & Mac & Linux](https://github.com/listen1/listen1_desktop)                |
 | [listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)                    |
 | [SPlayer 网易 免VIP](https://github.com/imsyy/SPlayer)                                    |
-| [YesPlayMusic 网易仿](https://github.com/qier222/YesPlayMusic)                            |
 | [spotube 国外Spotify 播放器](https://github.com/KRTirtho/spotube)                           |
 | [nuclear 完全免费的音乐](https://github.com/nukeop/nuclear)                                   |
 
@@ -123,15 +122,14 @@
 | [TVBox](https://github.com/scovis/TVBox)             |
 |                                                      |
 
-# 图书 + 书源 [legado](legado)
-|                                                        |
-|--------------------------------------------------------|
-| [开源阅读 官网](https://gedoor.github.io/)                   |
-| [开源阅读 下载地址](https://github.com/gedoor/legado/releases) |
-| [小书包]()                                                |
-|                                                        |
+# 图书 + 书源 [legado 已删除，更换其他软件](legado)
+|                                                               |
+|---------------------------------------------------------------|
+| [Legado with MD3](https://github.com/HapeLee/legado-with-MD3) |
+| [小书包]()                                                       |
+|                                                               |
 
-# 漫画 + 图源 [cimoc](cimoc)
+# 漫画 + 图源 [cimoc 已删除，更换](cimoc)
 |                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------|
 | [Cimoc 官网](https://github.com/Haleydu/Cimoc)                                                                     |
